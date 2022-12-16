@@ -1,0 +1,64 @@
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\Programas.exe
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\Programas.deps.json
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\Programas.runtimeconfig.json
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\Programas.runtimeconfig.dev.json
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\Programas.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\ref\Programas.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\Programas.pdb
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\Programas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\Programas.AssemblyInfoInputs.cache
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\Programas.AssemblyInfo.cs
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\Programas.csproj.CoreCompileInputs.cache
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\Programas.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\ref\Programas.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\Programas.pdb
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\Programas.genruntimeconfig.cache
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\Programas.csproj.AssemblyReference.cache
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\NPOI.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\Programas.csproj.CopyComplete
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Programas.exe
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Programas.deps.json
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Programas.runtimeconfig.json
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Programas.runtimeconfig.dev.json
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Programas.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\ref\Programas.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Programas.pdb
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\NPOI.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\Programas.csproj.AssemblyReference.cache
+C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\Programas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\Programas.AssemblyInfoInputs.cache
+C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\Programas.AssemblyInfo.cs
+C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\Programas.csproj.CoreCompileInputs.cache
+C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\Programas.csproj.CopyComplete
+C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\Programas.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\ref\Programas.dll
+C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\Programas.pdb
+C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\Programas.genruntimeconfig.cache

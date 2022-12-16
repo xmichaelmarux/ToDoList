@@ -1,0 +1,16 @@
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\curso de net core.exe
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\curso de net core.deps.json
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\curso de net core.runtimeconfig.json
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\curso de net core.runtimeconfig.dev.json
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\curso de net core.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\ref\curso de net core.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\bin\Debug\net5.0\curso de net core.pdb
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\curso de net core.csproj.AssemblyReference.cache
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\curso de net core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\curso de net core.AssemblyInfoInputs.cache
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\curso de net core.AssemblyInfo.cs
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\curso de net core.csproj.CoreCompileInputs.cache
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\curso de net core.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\ref\curso de net core.dll
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\curso de net core.pdb
+C:\Users\maico\source\repos\curso de net core\curso de net core\obj\Debug\net5.0\curso de net core.genruntimeconfig.cache
