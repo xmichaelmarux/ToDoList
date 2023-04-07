@@ -35,7 +35,6 @@ C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Programas.deps.j
 C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Programas.runtimeconfig.json
 C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Programas.runtimeconfig.dev.json
 C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Programas.dll
-C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\ref\Programas.dll
 C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Programas.pdb
 C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\maico\source\repos\Proyectos\ToDoList\bin\Debug\net5.0\NPOI.OOXML.dll
@@ -62,3 +61,4 @@ C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\Programas.dll
 C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\ref\Programas.dll
 C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\Programas.pdb
 C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\Programas.genruntimeconfig.cache
+C:\Users\maico\source\repos\Proyectos\ToDoList\obj\Debug\net5.0\refint\Programas.dll

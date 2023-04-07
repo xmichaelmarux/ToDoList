@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace Primerproyecto
 {
@@ -55,14 +56,15 @@ namespace Primerproyecto
 					case "2":
 						Console.WriteLine("Que tarea deseas marcar como Realizada :\n");
 						string encontrar = Convert.ToString(Console.ReadLine());
-						if (encontrar == "" || encontrar.All(char.IsLetter))
+                        string Texto = Regex.Replace(encontrar, "[^0-9A-Za-z]", "", RegexOptions.None);
+                        if (Texto == "" || Texto.All(char.IsLetter))
 						{
 							Console.WriteLine("Escribe un caracter valido");
 						}
 						else
 						{
-							int convertir = Convert.ToInt32(encontrar);
-							if (convertir > elementos.Count || convertir < 0)
+							int convertir = Convert.ToInt32(Texto);
+							if (convertir >= elementos.Count || convertir < 0)
 							{
 								Console.WriteLine("La tarea no se encuentra en la lista");
 							}
@@ -93,6 +95,10 @@ namespace Primerproyecto
 						{
                             Console.WriteLine(j + ") " + elementos[j]);
                         }
+						if(list == 0)
+                        {
+							Console.WriteLine("\nNo hay tareas a realizar\n\n");
+						}
 						Console.WriteLine("\nPresione cualquier tecla para continuar...");
 						Console.ReadKey();
 						Console.Clear();
@@ -107,7 +113,7 @@ namespace Primerproyecto
                         else
                         {
 							int borrar = Convert.ToInt32(validar);
-							if (borrar < 0 || borrar > elementos.Count)
+							if (borrar < 0 || borrar >= elementos.Count || elementos.Count == 0)
                             {
 								Console.WriteLine("La tarea no se encuentra en la lista");
 							}
